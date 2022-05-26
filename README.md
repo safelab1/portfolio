@@ -57,6 +57,13 @@ Printing Process</div>
 * <div style="text-align: justify"> Spatiotemporal G-code Modeling for Secure FDM-based 3D Printing</div>
 * <div style="text-align: justify"> Evolving Internet Traffic Trend in Pakistan</div>
 
+## Other Presentations
+* <div style="text-align: justify">Memory Forensic Analysis Methodology for Programmable Logic Controllers, AAFS, 2022</div>
+* <div style="text-align: justify">A Forensic Readiness Model for the Fused Filament Fabrication (FFF) -Based AM Process, AAFS, 2022</div>
+* <div style="text-align: justify">On Detecting Sabotage Attacks on 3D Printing Processes, CIMSS 2021</div>
+* <div style="text-align: justify">Forensic Readiness Framework for 3D Printing Process: A Case Study of Ultimaker 3, DFRWS, 2020</div>
+* <div style="text-align: justify">Security Aspects of Cloud, International IT and Telecom Show “ITCN ASIA”, 2013</div>
+
 ## Experience
 #### Security and Forensics Engineering (SAFE) LAB, VCU, Richomond
 Position: Graduate Research Assistant
@@ -74,10 +81,3 @@ Position: Assistant Manager IP Backbone
 Position: Instructor
 <br>
 2003 - 2006
-
-## Projects
-* <div style="text-align: justify">Memory Forensic Analysis Methodology for Programmable Logic Controllers, AAFS, 2022</div>
-* <div style="text-align: justify">A Forensic Readiness Model for the Fused Filament Fabrication (FFF) -Based AM Process, AAFS, 2022</div>
-* <div style="text-align: justify">On Detecting Sabotage Attacks on 3D Printing Processes, CIMSS 2021</div>
-* <div style="text-align: justify">Forensic Readiness Framework for 3D Printing Process: A Case Study of Ultimaker 3, DFRWS, 2020</div>
-* <div style="text-align: justify">Security Aspects of Cloud, International IT and Telecom Show “ITCN ASIA”, 2013</div>
